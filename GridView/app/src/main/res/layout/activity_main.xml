@@ -10,5 +10,6 @@
     <GridView
         android:id="@+id/gridview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:numColumns="3"/>
 </androidx.appcompat.widget.LinearLayoutCompat>
